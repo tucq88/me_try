@@ -1,0 +1,12 @@
+{
+    "name": "try-grunt",
+    "version": "0.1.0",
+    "dependencies": {
+        "grunt": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-concat": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-sass": "*",
+        "grunt-autoprefixer": "*"
+    }
+}
